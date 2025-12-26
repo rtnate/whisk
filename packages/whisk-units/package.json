@@ -1,0 +1,23 @@
+{
+    "name": "@rtnate/whisk-units",
+    "version": "0.1.0",
+    "type": "module",
+    "main": "dist/index.cjs",
+    "module": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "exports": {
+        ".": {
+            "import": "./dist/index.js",
+            "require": "./dist/index.cjs"
+        }
+    },
+    "dependencies": {
+        "@rtnate/whisk-core": "^0.1.0"
+    },
+    "scripts": {
+        "build": "tsup",
+        "test": "vitest",
+        "lint": "eslint src",
+        "typecheck": "tsc --noEmit"
+    }
+}
