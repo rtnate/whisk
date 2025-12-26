@@ -1,0 +1,7 @@
+{
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importStyle": "named",
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.importStyle": "named",
+  "editor.formatOnSave": true
+}
