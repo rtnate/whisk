@@ -12,7 +12,7 @@
     "paths": {
       "@rtnate/*": ["packages/*/src"]
     },
-
+    "resolveJsonModule": true,
     "esModuleInterop": true,
     "skipLibCheck": true
   },
