@@ -1,0 +1,136 @@
+[
+    {
+        "id": "tsp",
+        "name": "teaspoon",
+        "kind": "volume",
+        "abbreviation": "tsp",
+        "baseUnit": "mL",
+        "factor": 4.92892,
+        "symbols": [
+            "teaspoon",
+            "tsp",
+            "t"
+        ]
+    },
+    {
+        "id": "tbsp",
+        "name": "tablespoon",
+        "kind": "volume",
+        "abbreviation": "tbsp",
+        "baseUnit": "mL",
+        "factor": 14.7868,
+        "symbols": [
+            "tablespoon",
+            "tbsp",
+            "T"
+        ]
+    },
+    {
+        "id": "cup",
+        "name": "cup",
+        "kind": "volume",
+        "abbreviation": "c",
+        "baseUnit": "mL",
+        "factor": 240,
+        "symbols": [
+            "cup",
+            "cups",
+            "c"
+        ]
+    },
+    {
+        "id": "fl-oz",
+        "name": "fluid ounce",
+        "kind": "volume",
+        "abbreviation": "fl oz",
+        "baseUnit": "mL",
+        "factor": 29.5735,
+        "symbols": [
+            "fluid ounce",
+            "fluid ounces",
+            "fl oz"
+        ]
+    },
+    {
+        "id": "mL",
+        "name": "milliliter",
+        "kind": "volume",
+        "abbreviation": "mL",
+        "baseUnit": "mL",
+        "factor": 1,
+        "symbols": [
+            "milliliter",
+            "millilitre",
+            "ml",
+            "mL"
+        ]
+    },
+    {
+        "id": "L",
+        "name": "liter",
+        "kind": "volume",
+        "abbreviation": "L",
+        "baseUnit": "mL",
+        "factor": 1000,
+        "symbols": [
+            "liter",
+            "litre",
+            "l",
+            "L"
+        ]
+    },
+    {
+        "id": "oz",
+        "name": "ounce",
+        "kind": "mass",
+        "abbreviation": "oz",
+        "baseUnit": "g",
+        "factor": 28.3495,
+        "symbols": [
+            "ounce",
+            "ounces",
+            "oz"
+        ]
+    },
+    {
+        "id": "g",
+        "name": "gram",
+        "kind": "mass",
+        "abbreviation": "g",
+        "baseUnit": "g",
+        "factor": 1,
+        "symbols": [
+            "gram",
+            "grams",
+            "g"
+        ]
+    },
+    {
+        "id": "kg",
+        "name": "kilogram",
+        "kind": "mass",
+        "abbreviation": "kg",
+        "baseUnit": "g",
+        "factor": 1000,
+        "symbols": [
+            "kilogram",
+            "kilograms",
+            "kg",
+            "kilo"
+        ]
+    },
+    {
+        "id": "lb",
+        "name": "pound",
+        "kind": "mass",
+        "abbreviation": "lb",
+        "baseUnit": "g",
+        "factor": 453.592,
+        "symbols": [
+            "pound",
+            "pounds",
+            "lb",
+            "lbs"
+        ]
+    }
+]
