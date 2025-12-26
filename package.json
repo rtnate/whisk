@@ -8,14 +8,18 @@
     "build": "npm run build -ws",
     "test": "npm run test -ws",
     "lint": "npm run lint -ws",
+    "units:build": "npm run build --workspace=@rtnate/whisk-units",
+    "units:test": "npm run test --workspace=@rtnate/whisk-units",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@types/node": "^25.0.3",
     "@typescript-eslint/eslint-plugin": "^8.50.1",
     "@typescript-eslint/parser": "^8.50.1",
     "eslint": "^9.39.2",
     "prettier": "^3.7.4",
     "tsup": "^8.5.1",
+    "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vitest": "^4.0.16"
   }
