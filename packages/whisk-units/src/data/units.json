@@ -8,8 +8,12 @@
         "factor": 4.92892,
         "symbols": [
             "teaspoon",
+            "teaspoons",
             "tsp",
-            "t"
+            "tsps",
+            "ts",
+            "t",
+            "tsp."
         ]
     },
     {
@@ -21,8 +25,14 @@
         "factor": 14.7868,
         "symbols": [
             "tablespoon",
+            "tablespoons",
             "tbsp",
-            "T"
+            "tbsps",
+            "t",
+            "tbl",
+            "tbls",
+            "tb",
+            "tbsp."
         ]
     },
     {
@@ -35,7 +45,9 @@
         "symbols": [
             "cup",
             "cups",
-            "c"
+            "c",
+            "cp",
+            "cps"
         ]
     },
     {
@@ -48,7 +60,22 @@
         "symbols": [
             "fluid ounce",
             "fluid ounces",
-            "fl oz"
+            "fluid oz",
+            "fluid ozs",
+            "fl ounce",
+            "fl ounces",
+            "fl oz",
+            "fl ozs",
+            "fl. ounce",
+            "fl. ounces",
+            "fl-oz",
+            "fl-ozs",
+            "fl-ounce",
+            "fl-ounces",
+            "ounce",
+            "ounces",
+            "oz",
+            "ozs"
         ]
     },
     {
@@ -60,9 +87,13 @@
         "factor": 1,
         "symbols": [
             "milliliter",
+            "milliliters",
             "millilitre",
+            "millilitres",
             "ml",
-            "mL"
+            "mls",
+            "mL",
+            "mLs"
         ]
     },
     {
@@ -74,7 +105,9 @@
         "factor": 1000,
         "symbols": [
             "liter",
+            "liters",
             "litre",
+            "liters",
             "l",
             "L"
         ]
@@ -89,7 +122,8 @@
         "symbols": [
             "ounce",
             "ounces",
-            "oz"
+            "oz",
+            "ozs"
         ]
     },
     {
@@ -102,7 +136,8 @@
         "symbols": [
             "gram",
             "grams",
-            "g"
+            "g",
+            "gs"
         ]
     },
     {
@@ -116,7 +151,9 @@
             "kilogram",
             "kilograms",
             "kg",
-            "kilo"
+            "kgs",
+            "kilo",
+            "kilos"
         ]
     },
     {
